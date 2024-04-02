@@ -1,7 +1,8 @@
 # FaceBuilderの瞼の裏を生成
 
 ## Introduction
-FaceBuidlerで作成した顔の瞼の裏側を作成します。
+FaceBuidlerで作成した顔の瞼の裏側を作成します。<br>
+<img src="https://github.com/kuri-glory/blender-facebuilder-eyelid/assets/165764811/4d8538a6-69e1-4693-984f-b9d745814ac3" width="600">
 
 ## 使い方
 * check_eyelid_control_panel.pyをBlenderのスクリプトで実行
